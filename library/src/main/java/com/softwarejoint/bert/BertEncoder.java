@@ -41,8 +41,9 @@ public final class BertEncoder extends Bert implements DistributionHeader {
         return this;
     }
 
-    public void setBufferSize(int bufferSize) {
+    public BertEncoder setBufferSize(int bufferSize) {
         this.bufferSize = Math.max(bufferSize, MIN_BUFFER_SIZE);
+        return this;
     }
 
     private void resetBuffer() {
