@@ -6,9 +6,9 @@ Implements binary Erlang external format in java for android.
 
 For Other Languages
 
-* [Swift](https://github.com/softwarejoint/BERTswift)
+* [Swift](https://github.com/softwarejoint/SwiftBert)
 * [Android](https://github.com/softwarejoint/AndroidBert)
-* [JavaScript](https://github.com/softwarejoint/BERT-JS)
+* [JavaScript](https://github.com/softwarejoint/JavaScriptBert)
 
 ### Android => Erlang
 
