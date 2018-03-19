@@ -1,13 +1,13 @@
 ## Bert for Android
 
-[![Release](https://jitpack.io/v/softwarejoint/BertAndroid.svg)](https://jitpack.io/#softwarejoint/BertAndroid)
+[![Release](https://jitpack.io/v/softwarejoint/AndroidBert.svg)](https://jitpack.io/#softwarejoint/AndroidBert)
 
 Implements binary Erlang external format in java for android.
 
 For Other Languages
 
 * [Swift](https://github.com/softwarejoint/BERTswift)
-* [Android](https://github.com/softwarejoint/BertAndroid)
+* [Android](https://github.com/softwarejoint/AndroidBert)
 * [JavaScript](https://github.com/softwarejoint/BERT-JS)
 
 ### Android => Erlang
@@ -73,7 +73,7 @@ For Other Languages
 
 ```
     dependencies {
-	    compile 'com.github.softwarejoint:BertAndroid:1.4.0'
+	    compile 'com.github.softwarejoint:AndroidBert:1.0.0'
 	}
 
 ```
