@@ -73,7 +73,7 @@ For Other Languages
 
 ```
     dependencies {
-	    compile 'com.github.softwarejoint:AndroidBert:1.0.0'
+	    compile 'com.github.softwarejoint:AndroidBert:1.0.1'
 	}
 
 ```
