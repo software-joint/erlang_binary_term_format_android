@@ -1,5 +1,6 @@
 # Built application files
 .DS_Store
+*.iml
 *.apk
 *.ap_
 
