@@ -6,7 +6,6 @@ Implements binary Erlang external format in java for android.
 
 For Other Languages
 
-
 * [Swift](https://github.com/erlang-chat/erlang_binary_term_format_swift)
 * [Android](https://github.com/erlang-chat/erlang_binary_term_format_android)
 * [JavaScript](https://github.com/erlang-chat/erlang_binary_term_format_javascript)
