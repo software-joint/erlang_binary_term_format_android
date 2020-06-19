@@ -1,14 +1,15 @@
 ## Bert for Android
 
-[![Release](https://jitpack.io/v/softwarejoint/AndroidBert.svg)](https://jitpack.io/#softwarejoint/AndroidBert)
+[![Release](https://jitpack.io/v/erlang-chat/erlang_binary_term_format_android.svg)](https://jitpack.io/#erlang-chat/erlang_binary_term_format_android)
 
 Implements binary Erlang external format in java for android.
 
 For Other Languages
 
-* [Swift](https://github.com/softwarejoint/SwiftBert)
-* [Android](https://github.com/softwarejoint/AndroidBert)
-* [JavaScript](https://github.com/softwarejoint/JavaScriptBert)
+
+* [Swift](https://github.com/erlang-chat/erlang_binary_term_format_swift)
+* [Android](https://github.com/erlang-chat/erlang_binary_term_format_android)
+* [JavaScript](https://github.com/erlang-chat/erlang_binary_term_format_javascript)
 
 ### Android => Erlang
 
@@ -63,17 +64,17 @@ For Other Languages
 1. Include jitpack.io maven repo
 
 ```
-    repositories {
-        maven { url "https://jitpack.io" }
-    }
+repositories {
+    maven { url "https://jitpack.io" }
+}
 
 ```
 
 2. Add dependency to project
 
 ```
-    dependencies {
-	    compile 'com.github.softwarejoint:AndroidBert:1.0.1'
-	}
+dependencies {
+    implementation 'com.github.erlang-chat:erlang_binary_term_format_android:1.1.0'
+}
 
 ```
